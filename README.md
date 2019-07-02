@@ -5,6 +5,7 @@
 Códigos/Exercícios realizados na **UC09/Lógica de programação** do curso **Técnico em Informática**, no SENAC VPR.
 
 ## A tela principal do VisualG
-![Tela](https://user-images.githubusercontent.com/52213139/60517095-6f30e600-9cb5-11e9-8008-24d8ea61ffaf.png)
+![hsuahsauhs](https://user-images.githubusercontent.com/52213139/60521598-ec605900-9cbd-11e9-93ed-9453aa211deb.jpg)
+
 
 ###
