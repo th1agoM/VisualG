@@ -15,9 +15,9 @@ O Visualg é um programa que permite criar, editar, interpretar e que também ex
 
 + Barra de tarefas
 + Editor de texto
-+ Quadro de Variáveis
-+ Barra de Status
-+ Simulador de Saída MS-DOS
++ Quadro de variáveis
++ Barra de status
++ Simulador de saída MS-DOS
 
 ### O Principal objetivo!
 
