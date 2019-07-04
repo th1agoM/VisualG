@@ -8,10 +8,6 @@ O Intuito desse repositório é compartilhar/arquivar os códigos e atividades r
 
 O Visualg é um programa que permite criar, editar, interpretar e que também executa os algoritmos em português estruturado (portugol) como se fosse um “programa” normal de computador.
 
-### O Principal objetivo!
-
-Foi propositadamente criado para ajudar aos alunos iniciantes em programação, mas pode ser utilizado por professores e outros autodidatas.
-
 ### A Interface do VisualG 3.0
 ![tela](https://user-images.githubusercontent.com/52213139/60631647-d4302d00-9dd6-11e9-90bb-ea0dd50d2906.jpg)
 
@@ -22,3 +18,7 @@ Foi propositadamente criado para ajudar aos alunos iniciantes em programação, 
 + Quadro de Variáveis
 + Barra de Status
 + Simulador de Saída MS-DOS
+
+### O Principal objetivo!
+
+Foi propositadamente criado para ajudar aos alunos iniciantes em programação, mas pode ser utilizado por professores e outros autodidatas.
