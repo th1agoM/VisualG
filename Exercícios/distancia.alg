@@ -3,7 +3,7 @@ Algoritmo "VeloTemp"
 Var
    dist, velo: real
    resultado: real
-   
+
 Inicio
    escreval("-----------------------------------")
    escreva("Qual é a distância em KM? ")
@@ -14,6 +14,9 @@ Inicio
 
    escreval("-----------------------------------")
    resultado <- (dist / velo)
-   escreva("O Tempo do percuso é de: ", resultado, " horas.")
-
+   se(resultado < 1)entao
+      escreva("O Tempo do percuso é de:", resultado, " minutos.")
+   senao
+      escreva("O Tempo do percuso é de:", resultado, " horas.")
+   fimse
 Fimalgoritmo
