@@ -1,21 +1,21 @@
 Algoritmo "OPERADOR_LOGICO OU"
 
 Var
-numeroUm, numeroDois: inteiro
-resultado: logico
+   numeroUm, numeroDois: inteiro
+   resultado: logico
 
 Inicio
-numeroUm <- 10
-numeroDois <- 5
+   numeroUm <- 10
+   numeroDois <- 5
 
-escreval("1Âº exemplo do Operador LÃ³gico OU:")
-resultado <- (numeroUm < numeroDois) ou (numeroUm > numeroDois)
-escreval(numeroUm, " < ", numeroDois, " OU ", numeroUm, " > ", numeroDois, " = ", resultado)
+   escreval("1º Exemplo do operador lógico OU:")
+   resultado <- (numeroUm < numeroDois) ou (numeroUm > numeroDois)
+   escreval(numeroUm, " < ", numeroDois, " OU ", numeroUm, " > ", numeroDois, " = ", resultado)
 
-escreval
+   escreval
 
-escreval("2 Exemplo de Operador LÃ³gico OU: ")
-resultado <-(numeroUm > numeroDois) OU (numeroUm > numeroDois)
-escreval(numeroUm, " > ", numeroDois, " OU ", numeroUm, " > ", numeroDois, " = ", resultado)
+   escreval("2 Exemplo do operador lógico OU: ")
+   resultado <-(numeroUm > numeroDois) OU (numeroUm > numeroDois)
+   escreval(numeroUm, " > ", numeroDois, " OU ", numeroUm, " > ", numeroDois, " = ", resultado)
 
 Fimalgoritmo

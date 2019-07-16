@@ -1,19 +1,19 @@
 Algoritmo "Operadores_Logicos"
 
 Var
-numeroUm, numeroDois: inteiro
-resultado: logico
+   numeroUm, numeroDois: inteiro
+   resultado: logico
 
 Inicio
-numeroUm <- 10
-numeroDois <- 5
+   numeroUm <- 10
+   numeroDois <- 5
 
-escreval("1Âº Exemplo do Operador LÃ³gico E: ")
-resultado <- (numeroUm < numeroDois) e (numeroUm > numeroDois)
-escreval(numeroUm, " < ", numeroDois, " E ", numeroUm, " > ", numeroDois, " = ", resultado)
-escreval
-escreval("2Âº Exemplo do Operador LÃ³gico E: ")
-resultado <- (numeroUm > numeroDois) e (numeroUm > numeroDois)
-escreval(numeroUm, " > ", numeroDois, " E ", numeroUm, " > ", numeroDois, " = ", resultado)
+   escreval("1º Exemplo do operador lógico E: ")
+   resultado <- (numeroUm < numeroDois) e (numeroUm > numeroDois)
+   escreval(numeroUm, " < ", numeroDois, " E ", numeroUm, " > ", numeroDois, " = ", resultado)
+   escreval
+   escreval("2º Exemplo do operador lógico E: ")
+   resultado <- (numeroUm > numeroDois) e (numeroUm > numeroDois)
+   escreval(numeroUm, " > ", numeroDois, " E ", numeroUm, " > ", numeroDois, " = ", resultado)
 
 Fimalgoritmo
