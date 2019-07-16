@@ -15,7 +15,7 @@ Inicio
    escreval("-----------------------------------")
    resultado <- (dist / velo)
    se(resultado < 1)entao
-      escreva("O Tempo do percuso é de:", resultado, " minutos.")
+      escreva("O Tempo do percuso é de:", resultado, "0 minutos.")
    senao
       escreva("O Tempo do percuso é de:", resultado, " horas.")
    fimse
