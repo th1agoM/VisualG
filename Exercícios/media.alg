@@ -1,30 +1,20 @@
 Algoritmo "VeloTemp"
 
 Var
-   notaUm, notaDois, notaTres, notaQuatro, media: real
+   nomeDoAluno: real
+   nota: real
 
 Inicio
-   se(notaUm, notaDois, notaTres, notaQuatro > 10)entao
-      escreva("O Valor inserido é inválido")
-   
-   escreval("-----------------------------------")
-   escreva("Qual é a Primeira nota? ")
-   leia(notaUm)
-   
-   escreval("-----------------------------------")
-   escreva("Qual é a Segunda nota? ")
-   leia(notaDois)
+   escreval("Qual o nome do aluno?")
+   leia(nomeDoAluno)
 
-   escreval("-----------------------------------")
-   escreva("Qual é a Terceira nota? ")
-   leia(notaTres)
+   escreval("--------------------------------")
+   escreva("Qual o valor da nota? ")
+   leia(nota)
 
-   escreval("-----------------------------------")
-   escreva("Qual é a Quarta nota? ")
-   leia(notaQuatro)
-
-   escreval("-----------------------------------")
-   media <- (notaUm + notaDois + notaTres + notaQuatro / 4)
-   
-fimse
+   se(nota <= 10)entao
+      escreva("Valor inserido. ")
+   senao
+      escreva("O Valor inserido é inválido ")
+   fimse
 Fimalgoritmo
