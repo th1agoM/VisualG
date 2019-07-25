@@ -1,4 +1,4 @@
-Algoritmo "VeloTemp"
+Algoritmo "media_aluno"
 
 Var
    nomeDoAluno: real

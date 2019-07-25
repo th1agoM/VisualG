@@ -1,4 +1,4 @@
-Algoritmo "OPERADOR_LOGICO OU"
+Algoritmo "operador_ou"
 
 Var
    numeroUm, numeroDois: inteiro

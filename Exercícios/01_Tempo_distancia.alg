@@ -1,4 +1,4 @@
-Algoritmo "VeloTemp"
+Algoritmo "tempo_distancia"
 
 Var
    dist, velo: real

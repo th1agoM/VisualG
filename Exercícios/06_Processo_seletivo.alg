@@ -1,4 +1,4 @@
-Algoritmo "AjudaRH"
+Algoritmo "processo_seletivo"
 
 Var
    salario: real

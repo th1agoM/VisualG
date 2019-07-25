@@ -1,4 +1,4 @@
-Algoritmo "operador REPITA"
+Algoritmo "operador_repita"
 
 Var
    horario: inteiro

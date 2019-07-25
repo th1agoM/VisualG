@@ -1,4 +1,4 @@
-Algoritmo "Operadores_Logicos"
+Algoritmo "operador_nao"
 
 Var
    numeroUm, numeroDois: inteiro

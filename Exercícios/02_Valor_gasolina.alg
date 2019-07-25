@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "valor_gasolina"
 
 Var
    preco, lt: real
